@@ -1,0 +1,7 @@
+/target
+.idea
+.vscode
+venv
+venv11
+/migrations/
+__pycache__
